@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<yml_catalog date="2025-03-01T12:00+03:00"> 
+    <shop> 
+        <name>Шатура</name> 
+        <company>ООО "Шатура-Мебель"</company> 
+        <url>https://www.shatura.com</url> 
+        <currencies> 
+            <currency id="RUB" rate="1"/> 
+        </currencies> 
+        <categories> 
+            <category id="1">Мебель</category> 
+            <category id="2">Мягкая мебель</category> 
+            <category id="3">Диваны</category> 
+            <category id="4">Диван прямой</category> 
+        </categories> 
+        <offers> 
+            <offer id="492140" available="true"> 
+              <url>https://www.shatura.com/goods/groups/divany/492140/</url> 
+                <price>123420</price> 
+                <currencyId>RUB</currencyId> 
+                <categoryId>4</categoryId> 
+                <delivery>false</delivery> 
+                <pickup>true</pickup> 
+                <name>Диван Rimini Basic</name> 
+                <description>Современный прямой диван с механизмом "Тик-Так" и каркасом из бруса.</description> 
+                <vendor>Шатура</vendor> 
+                <dimensions>2250x1070x775</dimensions> 
+            </offer> 
+        </offers> 
+    </shop> 
+</yml_catalog>

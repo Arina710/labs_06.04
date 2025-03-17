@@ -1,0 +1,7 @@
+[
+    {"type": "деликатная", "color": "белый", "dirt_level": "слабая", "stains": "нет", "preference": "нет", "mode": "деликатная стирка", "temperature": 30},
+    {"type": "хлопок", "color": "темный", "dirt_level": "сильная", "stains": "да", "preference": "нет", "mode": "интенсивная стирка", "temperature": 60},
+    {"type": "шерсть", "color": "любой", "dirt_level": "любая", "stains": "нет", "preference": "нет", "mode": "шерсть", "temperature": 30},
+    {"type": "синтетика", "color": "любой", "dirt_level": "любая", "stains": "нет", "preference": "экономия воды", "mode": "эко-стирка", "temperature": 40},
+    {"type": "любая", "color": "любая", "dirt_level": "любая", "stains": "любая", "preference": "быстрая стирка", "mode": "быстрая стирка", "temperature": 30}
+]
