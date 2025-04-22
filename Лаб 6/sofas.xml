@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<yml_catalog date="2025-03-03T12:00+03:00"> 
+    <shop> 
+        <name>Шатура</name> 
+        <company>ООО "Шатура-Мебель"</company> 
+        <url>https://www.shatura.com</url> 
+
+        <currencies> 
+            <currency id="RUB" rate="1"/> 
+        </currencies> 
+
+        <categories> 
+            <category id="1">Главная</category> 
+            <category id="2">Товарный каталог</category> 
+            <category id="3">Мягкая мебель</category> 
+            <category id="4">Диваны</category> 
+            <category id="5">Диван прямой</category> 
+        </categories> 
+
+        <offers> 
+            <offer id="492140" available="true"> 
+                <url>https://www.shatura.com/goods/groups/divany/492140/</url> 
+                <price>123420</price> 
+                <currencyId>RUB</currencyId> 
+                <categoryId>5</categoryId> 
+                <delivery>false</delivery> 
+                <pickup>true</pickup> 
+                <name>Диван Rimini Basic</name> 
+                <description>Современный прямой диван с механизмом "Тик-Так" и каркасом из бруса.</description> 
+                <vendor>Шатура</vendor> 
+                <dimensions>2250x1070x775</dimensions> 
+            </offer> 
+
+            <offer id="492141" available="true"> 
+                <url>https://www.shatura.com/goods/groups/divany/492141/</url> 
+                <price>98400</price> 
+                <currencyId>RUB</currencyId> 
+                <categoryId>5</categoryId> 
+                <delivery>false</delivery> 
+                <pickup>true</pickup> 
+                <name>Диван прямой Лига-041</name> 
+                <description>Элегантный серый диван из велюра без механизма трансформации.</description> 
+                <vendor>Шатура</vendor> 
+                <collection>Лига-041</collection>
+                <transformationMechanism>Без трансформации</transformationMechanism>
+                <color>Серый</color>
+                <fabricType>Велюр</fabricType>
+                <depth>930</depth>
+                <length>2230</length>
+                <height>750</height>
+                <manufacturer>Россия</manufacturer>
+            </offer> 
+
+            <offer id="492142" available="true"> 
+                <url>https://www.shatura.com/goods/groups/divany/492142/</url> 
+                <price>75600</price> 
+                <currencyId>RUB</currencyId> 
+                <categoryId>5</categoryId> 
+                <delivery>false</delivery> 
+                <pickup>true</pickup> 
+                <name>Диван прямой Лагуна</name> 
+                <description>Комфортный бежевый диван с выкатным механизмом и наполнением из пенополиуретана.</description> 
+                <vendor>Шатура</vendor> 
+                <collection>Лагуна</collection>
+                <filling>Пенополиуретан</filling>
+                <transformationMechanism>Выкатной</transformationMechanism>
+                <color>Бежевый</color>
+                <fabricType>Велюр</fabricType>
+                <depth>940</depth>
+                <length>1100</length>
+                <height>800</height>
+                <manufacturer>Россия</manufacturer>
+            </offer> 
+        </offers> 
+    </shop> 
+</yml_catalog>
